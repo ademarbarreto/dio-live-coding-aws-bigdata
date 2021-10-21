@@ -1,0 +1,37 @@
+Vídeos Criando seu Ecossistema de Big Data na Nuvem
+
+
+Objetivos e requisitos do desafio
+https://www.youtube.com/watch?v=q10ids91Pmo
+
+O que  é Big Data?
+https://www.youtube.com/watch?v=yqy7cNSNbSo
+
+Como funciona o Big Data?
+https://www.youtube.com/watch?v=TEccSXOn-mU
+
+Big Data na AWS - Principais ferramentas
+https://www.youtube.com/watch?v=eFg0XUFIfvU
+
+Prática 1 - Explorando alguns serviços
+https://www.youtube.com/watch?v=2UHnLe8AFVs
+
+Prática 2 - Visão geral sobre a arquitetura do desafio
+https://www.youtube.com/watch?v=gjODPaW61V0
+
+Prática 3 - Configurando o S3 e EC2 na AWS
+https://www.youtube.com/watch?v=ZROKGK4gkJQ
+
+Prática 4 - Configurando o AWS IAM e Codando em Python
+https://www.youtube.com/watch?v=au_TtCNxztM
+
+Prática 5 - Configurando o Amazon EMR para explorarmos o poder do Big Data
+https://www.youtube.com/watch?v=tE7OxNEyQLA
+
+Resultado, conclusões e feferências
+https://www.youtube.com/watch?v=l8UIrBUS52c
+
+Repositóriso no Github
+https://github.com/cassianobrexbit/DIO-LiveCoding-AWS-BigData
+
+
